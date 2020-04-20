@@ -1,0 +1,3 @@
+write_files:
+  - content: "Hello"
+    path: /home/ubuntu/hello.txt
